@@ -1,4 +1,8 @@
-## Hi there 👋
+## Aoba! 😀
+
+Meu nome é Vinícius, mas pode me chamar de _OViniSA_.
+
+Atualmente, eu sou Graduando em BCC 7/8 (Bacharelado em Ciência da Computação).
 
 <!--
 **OViniSA/OViniSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
